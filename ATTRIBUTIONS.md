@@ -1,4 +1,4 @@
-# License overview of included 3rd party libraries and assets
+# License/Attribution of included 3rd party libraries and assets
 
 The `Fun in the Sun` project is licensed under the terms of the [MIT](LICENSE) License
 

@@ -7,4 +7,4 @@
 >All scripts `*.gd` and scene files `*.tres` are distributed under the [MIT](LICENSE) License
 
 ## Third Party Licenses
->Third Party License information can be found in the [LICENSE-THIRD-PARTY](LICENSE-THIRD-PARTY) file
+>Third Party License information can be found in the [THIRD-PARTY-ATTRIBUTIONS](THIRD-PARTY-ATTRIBUTIONS.md) file

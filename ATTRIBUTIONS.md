@@ -4,8 +4,7 @@ The `Fun in the Sun` project is licensed under the terms of the [MIT](LICENSE) L
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg?style=for-the-badge)](LICENSE)
 
-However, `Fun in the Sun` includes several third-party libraries and assets  
-which are licensed under their own respective licenses.
+However, `Fun in the Sun` includes several third-party libraries and assets which are licensed under their own respective licenses.
 
 The below notices are provided for information only.
 
@@ -25,7 +24,7 @@ The below notices are provided for information only.
 >License: Creative Commons Attribution License version 3.0 (CC-BY 3.0) \
 >https://creativecommons.org/licenses/by/3.0/legalcode
 >
->Files:
+>Files included in license:
 >* [icon.png](icon.png)
 >
 ***
@@ -37,7 +36,7 @@ The below notices are provided for information only.
 >License: CC0 1.0 Universal (CC0 1.0)\
 >http://creativecommons.org/publicdomain/zero/1.0/legalcode
 >
->Files:
+>Files included in license:
 >* [character_attack.png](character_attack.png)
 >* [character_walk.png](character_walk.png)
 >* [Overworld.png](Overworld.png)
